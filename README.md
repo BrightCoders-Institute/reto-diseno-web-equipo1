@@ -8,6 +8,7 @@
 ## Table of contents
   - [Description](#Description)
   - [Credits](#Credits)
+  - [Netlify link](#Netlify-link)
   
 ## Description
 This is a responsive website designed for mobile view (375px) and desktop view (1440px).
@@ -17,5 +18,5 @@ This is a responsive website designed for mobile view (375px) and desktop view (
 - [@Alonso2105](https://github.com/Alonso2105)
 - [@LuisCD2023](https://github.com/LuisCD2023)
   
-## Netlify-link
+## Netlify link
 https://graceful-cactus-35b568.netlify.app/
